@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Guillermo Flores / Hi there! I'm Guillermo Flores
+# ¡Hola! Soy Guillermo Flores 👋 / Hi there! I'm Guillermo Flores 👋 
 
 Soy estudiante de Ingeniería de Software (9no semestre) en la UANL, con un enfoque claro en **Ingeniería Backend, DevOps y Ciberseguridad**. Me dedico a escribir código limpio y a aprender sobre arquitectura segura. Actualmente trabajo en infraestructura de TI y busco oportunidades donde pueda aplicar mis habilidades para construir sistemas robustos y eficientes.
 
