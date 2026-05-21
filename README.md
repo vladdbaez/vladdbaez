@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería de Software (9no semestre) en la UANL, con un enfo
 **Tecnologías:**
 * **Lenguajes:** Java, C/C++, Python, SQL, Bash.
 * **Herramientas:** Git, Docker, CI/CD, Linux (Fedora).
-* **Intereses:** Automatización de sistemas, Seguridad de redes, Arquitectura limpia.
+* **Intereses:** Automatización de sistemas, Seguridad de redes, Arquitectura limpia. 
 
 ---
 
@@ -33,6 +33,6 @@ I'm a Software Engineering student (9th semester) at UANL with a strong focus on
 ### 📬 Contact / Contacto
 * 📧 **flbaez15@gmail.com**
 * 🔗 **www.linkedin.com/in/itsrex/**
-* 💻 Portafolio **NO DISPONIBLE** (aún)
+* 💻 Portafolio **https://vladdbaez.github.io/Portafolio/**
 
 *Always looking to learn, share knowledge, and contribute to meaningful projects. / Siempre con ganas de aprender, compartir conocimiento y contribuir a proyectos con impacto.*
